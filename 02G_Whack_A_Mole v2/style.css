@@ -1,0 +1,27 @@
+.box {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-color: rgb(182, 94, 152);
+}
+
+.grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 418px;
+    height: 418px;
+}
+
+.mole {
+    background-image : url("mole.png");
+    background-size: cover;
+
+}
+
+
+
+
+
+
